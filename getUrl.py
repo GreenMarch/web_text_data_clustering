@@ -29,4 +29,4 @@ for tag in tags:
 
 print("counter =", counter)
 target.close()
-~               
+       
